@@ -6,13 +6,13 @@ body {
 }
 
 header {
-  background-color: #005f99;
+  background-color: #3113c9;
   color: white;
   text-align: center;
   padding: 20px;
 }
 section {
-  background-color: #dff9fb;
+  background-color: #121f20;
   color: #130f40;
   font-size: 1.25em;
   padding: 20px;
@@ -32,7 +32,7 @@ header {
 }
 
 section {
-  background-color: #aec1c3;
+  background-color: #75aed1;
   color: #130f40;
   font-size: 1.25em;
   padding: 20px;
